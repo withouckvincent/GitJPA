@@ -1,4 +1,4 @@
-package be.vdab.fietsacademy.repositories;
+package vdab.fietsacademy.repositories;
 
 import java.util.Optional;
 

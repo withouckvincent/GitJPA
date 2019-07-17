@@ -1,4 +1,4 @@
-package be.vdab.fietsacademy.services;
+package src.test.java.fietsacademy.services;
 
 import static org.junit.Assert.assertEquals;
 
